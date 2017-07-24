@@ -1,0 +1,4 @@
+.fx-still { transition: none; -webkit-animation: none; animation: none }
+.fx-sun { text-shadow: none; box-shadow: none }
+.fx-grayscale { -webkit-filter: grayscale(100%); filter: grayscale(100%) }
+.fx-raw { -webkit-filter: none; filter: none }
